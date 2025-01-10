@@ -1,6 +1,5 @@
 #body {
-  background-image: url("../img/griffin.png");
-  background-size: cover;
+  background-color: #727D73;
 }
 
 #avi {
@@ -9,5 +8,5 @@
   height: 100px;
   margin-top: 20px;
   margin-bottom: 20px;
-  border: 2px solid #000;
+  border: 1px solid #000;
 }
