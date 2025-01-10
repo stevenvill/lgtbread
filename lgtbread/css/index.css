@@ -1,5 +1,5 @@
 #body {
-  background-color: #727D73;
+  background-color: #3E7B27;
 }
 
 #avi {
@@ -13,4 +13,8 @@
 
 .row {
 	padding-bottom: 10px;
+}
+
+h4 {
+	color: black;
 }
