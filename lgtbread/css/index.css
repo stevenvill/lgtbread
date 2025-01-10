@@ -1,4 +1,12 @@
-#main {
-	background-image: url("../img/griffin.png");
-	background-size: cover;
+#body {
+  background-image: url("../img/griffin.png");
+  background-size: cover;
+}
+
+#avi{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
